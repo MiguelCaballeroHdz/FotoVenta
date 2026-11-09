@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FotoVenta</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="retake">Retomar</string>
+    <string name="use_photo">Usar esta foto</string>
+    <string name="skip">Saltar</string>
+    <string name="generate">Generar anuncio</string>
+    <string name="share_whatsapp">Compartir WhatsApp</string>
+    <string name="copy">Copiar</string>
+    <string name="save_image">Guardar imagen</string>
+    <string name="watch_ad_to_continue">Ver anuncio para seguir</string>
+    <string name="premium_title">FotoVenta Premium</string>
+    <string name="premium_buy">Comprar por $299</string>
+    <string name="ocr_failed">No pude leer la hoja, escribe el texto a mano</string>
+    <string name="text_copied">Texto copiado</string>
+    <string name="step_car">Foto del carro</string>
+    <string name="step_sheet">Foto de tu hoja con precio, km y datos, o salta</string>
+    <string name="step_specs">Foto de tus specs o de otro anuncio, o salta</string>
+</resources>
